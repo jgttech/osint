@@ -1,6 +1,6 @@
 # OSINT Tools
 
-The basic use is `bash osint <tool-name>`. However, there are other uses. Run `bash osint --help` if help is needed.
+The basic use is `bash osint run <tool-name>`. However, there are other uses. Run `bash osint --help` if help is needed.
 
 ## Getting Started
 
@@ -13,9 +13,11 @@ Ensure you have the following tools installed on your system:
 
 ## Installing
 
-To ensure that everything gets at least 1 chance to initally setup just run:
+Clone the repo and run the install commands:
 
 ```bash
+git clone https://github.com/jgttech/osint.git
+cd osint
 bash osint install
 ```
 
