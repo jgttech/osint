@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+alias osint="bash osint"
+alias recon-ng="bash osint run recon-ng"
+alias theHarvester="bash osint run theHarvester"
+alias phoneinfoga="bash osint run phoneinfoga"
